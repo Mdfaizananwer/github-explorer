@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.search-bar {
+  margin: 20px;
+}
+
+.search-bar input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.search-bar button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.repo-list {
+  margin: 20px;
+}
+
+.repo-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.repo-item h3 a {
+  text-decoration: none;
+  color: #0366d6;
+}
+
+.repo-detail {
+  margin: 20px;
+}
+
+.user-profile {
+  margin: 20px;
+}
+
+.user-profile img {
+  border-radius: 50%;
+}
